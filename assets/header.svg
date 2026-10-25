@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Jasper — Small fixes. Better agents.</title>
+  <desc id="desc">A pale blue and lavender banner with a branching contribution path merging into one.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef7ff"/><stop offset=".55" stop-color="#f1eeff"/><stop offset="1" stop-color="#fff0f5"/></linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#497fce"/><stop offset=".55" stop-color="#8266cf"/><stop offset="1" stop-color="#d88baa"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8d83ae" opacity=".14"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect x="700" width="500" height="340" fill="url(#dots)"/>
+  <circle cx="1100" cy="25" r="150" fill="#fff" opacity=".35"/>
+  <circle cx="1180" cy="345" r="205" fill="#edddfa" opacity=".3"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="54" y="57" font-size="15" font-weight="600" letter-spacing="3" fill="#686182">JASPER / OPEN SOURCE CONTRIBUTOR</text>
+    <text x="50" y="143" font-size="64" font-weight="700" letter-spacing="-2.5" fill="#282b46">Small fixes.</text>
+    <text x="50" y="216" font-size="64" font-weight="700" letter-spacing="-2.5" fill="url(#ink)">Better agents.</text>
+    <text x="54" y="282" font-size="17" fill="#64677e">AI AGENTS <tspan fill="#b5a6cf"> / </tspan> RAG <tspan fill="#b5a6cf"> / </tspan> LLM WORKFLOWS</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-width="3">
+    <path d="M790 103 H870 C930 103 900 170 963 170 H1110" stroke="#b69bdd"/>
+    <path d="M767 237 H857 C922 237 904 170 963 170" stroke="#d5a2bd"/>
+    <path d="M739 170 H1110" stroke="#8aaee1"/>
+  </g>
+  <g fill="#faf8ff" stroke-width="3">
+    <circle cx="790" cy="103" r="11" stroke="#b69bdd"/>
+    <circle cx="767" cy="237" r="11" stroke="#d5a2bd"/>
+    <circle cx="739" cy="170" r="11" stroke="#8aaee1"/>
+    <circle cx="969" cy="170" r="23" stroke="#9079c7"/>
+    <circle cx="1110" cy="170" r="11" stroke="#8aaee1"/>
+  </g>
+  <path d="m959 170 7 7 13-15" fill="none" stroke="#9079c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="924" y="224" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#817591">MERGED</text>
+</svg>
