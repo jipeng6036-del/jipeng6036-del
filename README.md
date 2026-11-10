@@ -1,33 +1,30 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Jasper — Open Source Contributor. Small fixes. Better agents." width="100%" />
-</p>
+<img src="./assets/agent-trace.svg" alt="Jasper, AI agent engineer and open-source contributor. Reproduce, patch, merge." width="100%" />
 
-I’m **Jasper**, an AI Agent developer contributing to the tools we build with.
-My focus is **agents, RAG, and LLM workflows** — following real bugs from reproduction to a tested fix.
+I build **AI agents** and contribute to the tools they run on, from MCP and retrieval to document processing and workflow runtimes.
 
-<p>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajipeng6036-del+is%3Amerged"><strong>Merged contributions ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajipeng6036-del+is%3Aopen">In progress ↗</a>
-</p>
+**[Merged pull requests](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ajipeng6036-del&type=pullrequests)** · [Open pull requests](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Ajipeng6036-del&type=pullrequests)
 
-### A few contributions I’m glad to have made
+## Upstream highlights
 
-| Project | What I helped improve | Merged PR |
-| :--- | :--- | :--- |
-| **[nanobot](https://github.com/HKUDS/nanobot)** | Normalize WhatsApp timestamps before replay filtering. | [#6127 ↗](https://github.com/HKUDS/nanobot/pull/6127) |
-| **[AgentScope](https://github.com/agentscope-ai/agentscope)** | Handle OpenAI embedding responses with missing usage data. | [#3199 ↗](https://github.com/agentscope-ai/agentscope/pull/3199) |
-| **[Serena](https://github.com/oraios/serena)** | Recover Erlang file reads while the language server loads. | [#2142 ↗](https://github.com/oraios/serena/pull/2142) |
-| **[LiveKit Agents](https://github.com/livekit/agents)** | Treat exhausted OpenAI credit as a fatal realtime error. | [#7819 ↗](https://github.com/livekit/agents/pull/7819) |
-| **[Xinference](https://github.com/xorbitsai/inference)** | Preserve all GLM-5 tool calls and text during streaming. | [#5689 ↗](https://github.com/xorbitsai/inference/pull/5689) |
-| **[AMD GAIA](https://github.com/amd/gaia)** | Reindex watched Office documents after saves. | [#5729 ↗](https://github.com/amd/gaia/pull/5729) |
+**OpenClaw** · `CO-AUTHOR`<br>
+Removed duplicate MCP tool results when servers echo structured output as JSON. [Merged PR #169180](https://github.com/openclaw/openclaw/pull/169180) · [Commit credit](https://github.com/openclaw/openclaw/commit/5270b0374a53ed3eb93903fe3510ee2e7cc3f8bc)
 
-### Where my curiosity goes
+**Dify** · `MERGED`<br>
+Scoped Qdrant deletions by document ID to the active dataset. [PR #45586](https://github.com/langgenius/dify/pull/45586)
 
-**Agent workflows** &nbsp; / &nbsp; **Retrieval & memory** &nbsp; / &nbsp; **Developer tools**
+## More merged work
 
-Currently exploring LangGraph, Deep Agents, Pi Agent SDK, and LLM Wiki.
+- **Docling** · Preserve currency, percentage, and date formats in Excel conversion. [#4628](https://github.com/docling-project/docling/pull/4628)
+- **nanobot** · Normalize WhatsApp timestamps before replay filtering. [#6127](https://github.com/HKUDS/nanobot/pull/6127)
+- **DeepSeek-Reasonix** · Return an empty sessions list for folders without conversations. [#12744](https://github.com/esengine/DeepSeek-Reasonix/pull/12744)
+- **AgentScope** · Handle embedding responses that omit usage data. [#3199](https://github.com/agentscope-ai/agentscope/pull/3199)
 
----
+<details>
+<summary>More from Koa, Poetry, OpenWiki, and OpenJarvis</summary>
 
-<p align="center"><sub>One reproducible bug. One thoughtful fix. A little better for everyone.</sub></p>
+- **Koa** · Normalize the forwarded protocol before checking whether a request is secure. [#2029](https://github.com/koajs/koa/pull/2029)
+- **Poetry** · Validate distributions against the hashes for each file in the lockfile. [#11131](https://github.com/python-poetry/poetry/pull/11131)
+- **OpenWiki** · Fix in-page links to page names with non-ASCII characters. [#1070](https://github.com/langchain-ai/openwiki/pull/1070)
+- **OpenJarvis** · Preserve OAuth URL parameters when opening the browser on Windows. [#1168](https://github.com/open-jarvis/OpenJarvis/pull/1168)
+
+</details>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="364" viewBox="0 0 1280 364" role="img" aria-labelledby="title description">
+  <title id="title">Jasper · AI agent engineer</title>
+  <desc id="description">A dark circuit board with three stages marked Reproduce, Patch, and Merge.</desc>
+  <defs>
+    <linearGradient id="board" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0a1018"/>
+      <stop offset="1" stop-color="#142333"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#76a9ff"/>
+      <stop offset="1" stop-color="#d7ff75"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0v26" fill="none" stroke="#7693ad" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1280" height="364" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="364" fill="url(#board)"/>
+    <rect x="670" y="68" width="610" height="244" fill="url(#grid)"/>
+    <rect x=".5" y=".5" width="1279" height="363" rx="17.5" fill="none" stroke="#34475b"/>
+    <path d="M0 68h1280M0 312h1280M670 68v244" fill="none" stroke="#34475b"/>
+    <path d="M20 19h29v30H20z" fill="#d7ff75"/>
+    <path d="m27 29 5 5-5 5m8 0h8" fill="none" stroke="#0a1018" stroke-width="2.2" stroke-linecap="square"/>
+
+    <g font-family="Consolas,'Liberation Mono',monospace" font-weight="700" font-size="20" letter-spacing="1.9">
+      <text x="65" y="42" fill="#e5edf6">JIPENG6036-DEL</text>
+      <text x="1223" y="42" text-anchor="end" fill="#b2c4d7">UPSTREAM WORK</text>
+      <text x="53" y="344" fill="#d7ff75">OPEN SOURCE</text>
+      <text x="235" y="344" fill="#b2c4d7">AGENTS / RAG / WORKFLOWS</text>
+      <text x="1223" y="344" text-anchor="end" fill="#b2c4d7">CONTRIBUTION TRACE</text>
+    </g>
+
+    <text x="48" y="213" fill="#f2f6fb" font-family="Segoe UI,Arial,sans-serif" font-size="142" font-weight="800" letter-spacing="-7">Jasper<tspan fill="#d7ff75">.</tspan></text>
+    <text x="54" y="285" fill="#bdd0e3" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="600" letter-spacing="3.8">AI AGENT ENGINEER</text>
+
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M701 116h29l61 60v11h22l63 65v8h24" stroke="url(#signal)" stroke-width="3"/>
+      <path d="M720 279h63l34-34h20m121-129h115l22 22h83m-135 49h64l18 18h77" stroke="#4b6580" stroke-width="1.4"/>
+      <path d="M1163 244h39v33h-39m-9-16h48" stroke="#a9cb66" stroke-width="1.5"/>
+      <circle cx="701" cy="116" r="5" fill="#0e1722" stroke="#76a9ff" stroke-width="2"/>
+      <circle cx="791" cy="187" r="6" fill="#0e1722" stroke="#9dc6d2" stroke-width="2"/>
+      <circle cx="876" cy="260" r="7" fill="#d7ff75" stroke="#d7ff75" stroke-width="2"/>
+    </g>
+
+    <g font-family="Consolas,'Liberation Mono',monospace" font-size="25" font-weight="700" letter-spacing="2">
+      <text x="754" y="126" fill="#d9e7f8"><tspan fill="#76a9ff">01</tspan> REPRODUCE</text>
+      <text x="838" y="197" fill="#d9e7f8"><tspan fill="#9dc6d2">02</tspan> PATCH</text>
+      <text x="922" y="270" fill="#d7ff75">03 MERGE</text>
+    </g>
+  </g>
+</svg>
