@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="138" viewBox="0 0 460 138" role="img" aria-labelledby="title">
+  <title id="title">OpenClaw: MCP result deduplication CO-AUTHORED, PR 169180</title>
+  <rect x="1" y="1" width="458" height="136" rx="8" fill="#22182f" stroke="#684378" stroke-width="2"/>
+  <g font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="13" letter-spacing="1"><text x="16" y="24" fill="#ffcea5">STAGE SELECT</text><text x="444" y="24" text-anchor="end" fill="#f3f5a5">UPSTREAM WORK</text></g><path d="M16 36H444" stroke="#735880" stroke-dasharray="2 4"/>
+  <rect x="19" y="60" width="34" height="34" fill="#9f537c"/>
+  <rect x="16" y="57" width="34" height="34" fill="#ffb3d1"/>
+  <text x="33" y="79" text-anchor="middle" fill="#27182f" font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="17">01</text>
+  <text x="71" y="70" fill="#fff4d9" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="27">OpenClaw</text>
+  <text x="71" y="112" fill="#ead2ec" font-family="Segoe UI,Arial,sans-serif" font-size="20">MCP result deduplication</text>
+  <g fill="#ffdb90" text-anchor="end" font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="13">
+    <text x="444" y="69">CO-AUTHORED</text>
+    <text x="444" y="92" font-size="17">#169180 ↗</text>
+  </g>
+</svg>

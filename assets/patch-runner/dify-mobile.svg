@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="102" viewBox="0 0 460 102" role="img" aria-labelledby="title">
+  <title id="title">Dify: Qdrant dataset isolation MERGED, PR 45586</title>
+  <rect x="1" y="1" width="458" height="100" rx="8" fill="#22182f" stroke="#684378" stroke-width="2"/>
+
+  <rect x="19" y="24" width="34" height="34" fill="#72936c"/>
+  <rect x="16" y="21" width="34" height="34" fill="#c0e6b5"/>
+  <text x="33" y="43" text-anchor="middle" fill="#27182f" font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="17">02</text>
+  <text x="71" y="34" fill="#fff4d9" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="27">Dify</text>
+  <text x="71" y="76" fill="#ead2ec" font-family="Segoe UI,Arial,sans-serif" font-size="20">Qdrant dataset isolation</text>
+  <g fill="#ffdb90" text-anchor="end" font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="13">
+    <text x="444" y="33">MERGED</text>
+    <text x="444" y="56" font-size="17">#45586 ↗</text>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="hero" width="960" height="324" viewBox="0 0 960 324" role="img" aria-labelledby="title desc">
+  <title id="title">Patch Runner · Jasper</title>
+  <desc id="desc">A pixel-art flying pig glides over a purple skyline at sunset. Jasper is an AI agent engineer and open-source contributor.</desc>
+  <defs>
+    <clipPath id="cabinet"><rect width="960" height="324" rx="9"/></clipPath>
+    <linearGradient id="arcade-shade" x2="1" y2="0">
+      <stop stop-color="#27142b" stop-opacity=".93"/><stop offset=".44" stop-color="#27142b" stop-opacity=".64"/><stop offset=".72" stop-color="#27142b" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scanline" width="5" height="5" patternUnits="userSpaceOnUse"><rect y="4" width="5" height="1" fill="#130d28" opacity=".18"/></pattern>
+  </defs>
+  <g clip-path="url(#cabinet)">
+    <rect width="960" height="324" fill="#27142b"/>
+    <svg width="960" height="324" viewBox="0 0 960 345" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+<defs>
+          <linearGradient id="a-night" x2=".1" y2="1"><stop stop-color="#241d57"/><stop offset=".57" stop-color="#674077"/><stop offset="1" stop-color="#e88086"/></linearGradient>
+          <linearGradient id="a-sun" x2="0" y2="1"><stop stop-color="#fff4ba"/><stop offset="1" stop-color="#ff9baf"/></linearGradient>
+          <clipPath id="a-disc"><circle cx="756" cy="129" r="94"/></clipPath>
+        </defs>
+        <rect width="960" height="345" fill="url(#a-night)"/>
+        <g fill="#eac1f6" shape-rendering="crispEdges">
+          <path d="M565 38h4v4h-4zm40 19h5v5h-5zm-12 46h4v4h-4zm292-47h5v5h-5zm30 33h4v4h-4zm-62-57h5v5h-5zm73 12h4v4h-4zm-248-25h5v5h-5z"/>
+        </g>
+        <circle cx="756" cy="129" r="94" fill="url(#a-sun)"/>
+        <path d="M643 147h226m-226 13h226m-226 14h226m-226 15h226m-226 18h226" clip-path="url(#a-disc)" fill="none" stroke="#714377" stroke-width="6" opacity=".79"/>
+        <path d="M0 249h43v-14h38v-18h28v-23h31v13h31v-37h24v21h42v31h27v-15h44v35h46v-22h35v-17h45v30h25v14h66v-33h28v-13h46v24h42v10h50v-38h36v-24h29v36h21v19h29v21h37v-28h26v-33h43v13h39v30h28v-16h42v42H0z" fill="#372451" shape-rendering="crispEdges"/>
+        <path d="M0 273h960v72H0z" fill="#251a38"/>
+        <path d="M0 345l434-72m-218 72 274-72m-68 72 124-72m50 72 6-72m152 72-95-72m239 72-183-72m245 37-188-37M0 282h960M0 300h960M0 326h960" stroke="#d67bab" stroke-opacity=".44" fill="none" shape-rendering="crispEdges"/>
+        <g transform="translate(0.00 0.00)">
+          <g transform="translate(620 85) scale(7)" shape-rendering="crispEdges">
+            <path d="M-7 10h4V6h4V2h4V0h6v3h3v5h3v4h-2v4H0v-2h-4v-2h-3z" fill="#281932"/>
+            <path d="M-5 10h4V6h4V2h6v3h3v5h3v3h-4v2H1v-2h-4v-2h-2z" fill="#fff0e9"/>
+            <path d="M1 8h5V5h3v4h4v3H4v-2H1z" fill="#dab2f5"/>
+            <path d="M1 11h4V8h13V6h3V1h5v3h3v6h4v2h3v10h-3v3h-5v3H10v-2H5v-3H2v-4H0v-5h1z" fill="#321732"/>
+            <path d="M3 13h4v-3h13V8h3V3h3v3h2v6h4v2h2v6h-3v3h-5v3H11v-2H7v-3H4v-4H2v-3h1z" fill="#ff91b7"/>
+            <path d="M6 14h4v-3h10v2h9v3h3v3h-6v3H10v-2H6z" fill="#ffbad1"/>
+            <path d="M24 7h3v5h-3zM29 16h5v5h-6v-3h1zM9 24h5v3H9zm11 0h5v3h-5z" fill="#d85990"/>
+            <path d="M25 13h3v3h-3zM30 17h1v2h-1zm2 0h1v2h-1z" fill="#321732"/>
+            <path d="M26 13h1v1h-1zM18 10h3v1h-3zm-8 2h4v1h-4z" fill="#fff5d8"/>
+            <path d="M-9 21h6v2h-6zm-4-4h7v2h-7z" fill="#f7d885"/>
+          </g>
+        </g>
+        <path d="M539 81h13m-6-7v14m317 133h14m-7-7v14M583 49h11m-5-5v10" stroke="#fff4cf" fill="none" shape-rendering="crispEdges"/>
+    </svg>
+    <rect width="960" height="324" fill="url(#arcade-shade)"/>
+    <rect width="960" height="324" fill="url(#scanline)"/>
+    <text x="52" y="54" fill="#ffb5db" font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="14" letter-spacing="1.8">PLAYER 01 / JASPER</text>
+    <g font-family="Arial Black,Segoe UI,Arial,sans-serif" font-weight="900" font-size="101">
+      <g fill="#382044" transform="translate(8 8)">
+      <text x="51" y="157" letter-spacing="-5">PATCH</text>
+      <text x="51" y="242" letter-spacing="-5">RUNNER</text></g>
+      <g fill="#b54878" transform="translate(4 4)">
+      <text x="51" y="157" letter-spacing="-5">PATCH</text>
+      <text x="51" y="242" letter-spacing="-5">RUNNER</text></g>
+      <g fill="#fff3c1">
+      <text x="51" y="157" letter-spacing="-5">PATCH</text>
+      <text x="51" y="242" letter-spacing="-5">RUNNER</text></g>
+    </g>
+    <text x="53" y="281" fill="#ffcfdd" font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="15" letter-spacing="1.25">AI AGENT ENGINEER · OPEN SOURCE</text>
+  </g>
+  <rect x="1.5" y="1.5" width="957" height="321" rx="7.5" fill="none" stroke="#684378" stroke-width="3"/>
+</svg>
