@@ -5,19 +5,37 @@
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/hero-mobile.webp">
     <img src="./assets/patch-runner/hero.webp" width="960" alt="Patch Runner. Jasper, AI agent engineer and open-source contributor. A pixel-art flying pig over a sunset skyline.">
   </picture><br>
+  <a href="https://github.com/openclaw/openclaw/pull/202070"><picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/openclaw-doctor-mobile.svg">
+    <img src="./assets/patch-runner/openclaw-doctor.svg" width="960" alt="Stage 01. OpenClaw. I authored PR #202070, merged upstream. Doctor now points users to the active config file after validation fails.">
+  </picture></a><br>
   <a href="https://github.com/openclaw/openclaw/pull/169180"><picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/openclaw-mobile.svg">
-    <img src="./assets/patch-runner/openclaw.svg" width="960" alt="Stage 01: OpenClaw. Co-authored the fix for duplicate MCP tool results. Merged PR #169180.">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/openclaw-mcp-mobile.svg">
+    <img src="./assets/patch-runner/openclaw-mcp.svg" width="960" alt="OpenClaw. Co-authored the fix for duplicate MCP tool results, merged PR #169180.">
   </picture></a><br>
   <a href="https://github.com/langgenius/dify/pull/45586"><picture>
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/dify-mobile.svg">
     <img src="./assets/patch-runner/dify.svg" width="960" alt="Stage 02: Dify. Scoped Qdrant deletions to the active dataset. Merged PR #45586.">
+  </picture></a><br>
+  <a href="https://github.com/react/react-native/pull/60105"><picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/react-native-mobile.svg">
+    <img src="./assets/patch-runner/react-native.svg" width="960" alt="Stage 03. React Native. Four merged PRs in C++ Codegen and Fantom. Opens PR #60105 for Clang diagnostics in generated TurboModule headers.">
   </picture></a>
 </p>
 
 I build **AI agents** and contribute fixes upstream across MCP, retrieval, document processing, and workflow runtimes.
 
 **[Merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ajipeng6036-del&type=pullrequests)** · [Open PRs](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Ajipeng6036-del&type=pullrequests) · [OpenClaw commit credit](https://github.com/openclaw/openclaw/commit/5270b0374a53ed3eb93903fe3510ee2e7cc3f8bc)
+
+<details>
+<summary><strong>React Native · 4 merged PRs</strong></summary>
+
+- Scope the suppression of a Clang warning to generated C++ TurboModule headers. [#60105](https://github.com/react/react-native/pull/60105)
+- Clean up temporary Native Codegen directories after generation. [#60058](https://github.com/react/react-native/pull/60058)
+- Preserve the original error when a Fantom subprocess fails to start. [#60088](https://github.com/react/react-native/pull/60088)
+- Keep coverage disabled for Fantom benchmarks across configurations. [#60056](https://github.com/react/react-native/pull/60056)
+
+</details>
 
 <details>
 <summary><strong>More merged work</strong></summary>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="58" viewBox="0 0 960 58" role="img" aria-labelledby="title">
+  <title id="title">OpenClaw: MCP result deduplication, co-authored PR 169180</title>
+  <rect x="1" y="1" width="958" height="56" rx="8" fill="#1c1427" stroke="#594064" stroke-width="2"/>
+  <path d="M39 0v29h22" fill="none" stroke="#ba739d" stroke-width="2"/>
+  <rect x="59" y="26" width="6" height="6" fill="#ffb3d1"/>
+  <text x="84" y="35" fill="#f4daea" font-family="Segoe UI,Arial,sans-serif" font-weight="600" font-size="20">MCP result deduplication</text>
+  <g fill="#ffb3d1" font-family="Consolas,Liberation Mono,monospace" font-weight="700">
+    <text x="834" y="34" text-anchor="end" font-size="15">CO-AUTHORED</text>
+    <text x="938" y="34" text-anchor="end" font-size="15">#169180 ↗</text>
+  </g>
+</svg>
