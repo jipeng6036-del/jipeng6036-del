@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="58" viewBox="0 0 960 58" role="img" aria-labelledby="title">
+  <title id="title">DeerFlow: Preserve Feishu code examples, merged PR 8460</title>
+  <rect x="1" y="1" width="958" height="56" rx="8" fill="#1c1427" stroke="#594064" stroke-width="2"/>
+  <path d="M39 0v29h22" fill="none" stroke="#b48762" stroke-width="2"/>
+  <rect x="59" y="26" width="6" height="6" fill="#ffd391"/>
+  <text x="84" y="35" fill="#f4daea" font-family="Segoe UI,Arial,sans-serif" font-weight="600" font-size="20">Preserve Feishu code examples</text>
+  <g fill="#ffd391" font-family="Consolas,Liberation Mono,monospace" font-weight="700">
+    <text x="834" y="34" text-anchor="end" font-size="15">MERGED</text>
+    <text x="938" y="34" text-anchor="end" font-size="15">#8460 ↗</text>
+  </g>
+</svg>

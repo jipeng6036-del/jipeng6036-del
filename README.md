@@ -9,6 +9,10 @@
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/openclaw-doctor-mobile.svg">
     <img src="./assets/patch-runner/openclaw-doctor.svg" width="960" alt="Stage 01. OpenClaw. I authored PR #202070, merged upstream. Doctor now points users to the active config file after validation fails.">
   </picture></a><br>
+  <a href="https://github.com/openclaw/openclaw/pull/203274"><picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/openclaw-reset-mobile.svg">
+    <img src="./assets/patch-runner/openclaw-reset.svg" width="960" alt="OpenClaw. I authored PR #203274, merged upstream. A chat reset now clears stale questions and notices.">
+  </picture></a><br>
   <a href="https://github.com/openclaw/openclaw/pull/169180"><picture>
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/openclaw-mcp-mobile.svg">
     <img src="./assets/patch-runner/openclaw-mcp.svg" width="960" alt="OpenClaw. Co-authored the fix for duplicate MCP tool results, merged PR #169180.">
@@ -20,6 +24,18 @@
   <a href="https://github.com/react/react-native/pull/60105"><picture>
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/react-native-mobile.svg">
     <img src="./assets/patch-runner/react-native.svg" width="960" alt="Stage 03. React Native. Four merged PRs in C++ Codegen and Fantom. Opens PR #60105 for Clang diagnostics in generated TurboModule headers.">
+  </picture></a><br>
+  <a href="https://github.com/bytedance/deer-flow/pull/8459"><picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/deer-flow-mobile.svg">
+    <img src="./assets/patch-runner/deer-flow.svg" width="960" alt="Stage 04. DeerFlow. Two merged PRs. Opens PR #8459, which restores saved to-dos in conversation history.">
+  </picture></a><br>
+  <a href="https://github.com/bytedance/deer-flow/pull/8460"><picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/deer-flow-feishu-mobile.svg">
+    <img src="./assets/patch-runner/deer-flow-feishu.svg" width="960" alt="DeerFlow. Merged PR #8460 preserves Markdown code examples with multiple backticks in Feishu cards.">
+  </picture></a><br>
+  <a href="https://github.com/docling-project/docling/pull/4628"><picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jipeng6036-del/jipeng6036-del/main/assets/patch-runner/docling-mobile.svg">
+    <img src="./assets/patch-runner/docling.svg" width="960" alt="Stage 05. Docling. Merged PR #4628 preserves currency, percentage, and date formats when converting Excel files.">
   </picture></a>
 </p>
 
@@ -38,15 +54,23 @@ I build **AI agents** and contribute fixes upstream across MCP, retrieval, docum
 </details>
 
 <details>
-<summary><strong>More merged work</strong></summary>
+<summary><strong>Side quests</strong> · 10k+ star projects</summary>
 
-- **Docling** · Preserve currency, percentage, and date formats in Excel conversion. [#4628](https://github.com/docling-project/docling/pull/4628)
+> **OpenWiki** · Fix in-page links to page names with non-ASCII characters. [#1070](https://github.com/langchain-ai/openwiki/pull/1070)
+
 - **nanobot** · Normalize WhatsApp timestamps before replay filtering. [#6127](https://github.com/HKUDS/nanobot/pull/6127)
-- **DeepSeek-Reasonix** · Return an empty sessions list for folders without conversations. [#12744](https://github.com/esengine/DeepSeek-Reasonix/pull/12744)
 - **AgentScope** · Handle embedding responses that omit usage data. [#3199](https://github.com/agentscope-ai/agentscope/pull/3199)
+- **DeepSeek-Reasonix** · Return an empty sessions list for folders without conversations. [#12744 merge commit](https://github.com/esengine/DeepSeek-Reasonix/commit/e17ef45e343f43f65ffa4628ec904a6dfa9fd22f)
 - **Koa** · Normalize the forwarded protocol before checking whether a request is secure. [#2029](https://github.com/koajs/koa/pull/2029)
 - **Poetry** · Validate distributions against the hashes for each file in the lockfile. [#11131](https://github.com/python-poetry/poetry/pull/11131)
-- **OpenWiki** · Fix in-page links to page names with non-ASCII characters. [#1070](https://github.com/langchain-ai/openwiki/pull/1070)
+- **CloakBrowser** · Map Seychelles to a locale in IP geolocation. [#596](https://github.com/CloakHQ/CloakBrowser/pull/596)
+- **Serena** · Keep Erlang file reads working while the language server starts. [#2142](https://github.com/oraios/serena/pull/2142)
 - **OpenJarvis** · Preserve OAuth URL parameters when opening the browser on Windows. [#1168](https://github.com/open-jarvis/OpenJarvis/pull/1168)
+- **Unstructured** · Preserve category names in overlap metadata beyond element 99. [#4529](https://github.com/Unstructured-IO/unstructured/pull/4529)
+- **LiveKit Agents** · Treat exhausted OpenAI credits as a fatal realtime error. [#7819](https://github.com/livekit/agents/pull/7819)
+- **txtai** · Use only the query argument of `similar()` in term extraction and explanations. [#1367](https://github.com/neuml/txtai/pull/1367)
+- **RQ** · Honor explicit priority overrides on decorated jobs. [#2551](https://github.com/rq/rq/pull/2551)
+- **oh-my-opencode-slim** · Persist `ast_grep_replace` changes to disk. [#1617](https://github.com/alvinunreal/oh-my-opencode-slim/pull/1617)
+- **pypdf** · Raise a PDF read error for invalid data after `startxref`. [#4212](https://github.com/py-pdf/pypdf/pull/4212)
 
 </details>
